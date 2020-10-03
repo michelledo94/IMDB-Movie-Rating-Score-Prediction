@@ -1,2 +1,2 @@
 # IMDB-Movie-Rating-Score-Prediction
-Regression with LASSO, Ridge and Elastic Net in R.
+Regression with LASSO, Ridge and Elastic Net in Python.
